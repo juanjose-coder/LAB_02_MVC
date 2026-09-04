@@ -8,7 +8,7 @@
 |---|---|
 | **Carrera profesional** | Desarrollo de Sistemas de Información |
 | **Módulo formativo** | Programación de Sistemas de Información |
-| **Unidad didáctica** | Desarrollo de Aplicaciones BackEnd |
+| **Unidad didáctica** | DESARROLLO WEB INTEGRADO |
 | **Estudiante** | Juan José Condori Bolívar |
 | **Semestre** | IV |
 | **Año académico** | 2026 |
